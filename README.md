@@ -1,2 +1,20 @@
-# code90
-code90 is a 90-day journey where I document 7+ years of experience in Web Development, DevOps, Web3, and real-world projects. From Day 1 to Day 90, follow along for daily insights, code snippets, tools, and hands-on knowledge across the full stack.
+This is a 90-day journey where I document everything I’ve learned over 7+ years in Web Development, DevOps, Web3, and real-world projects.
+
+🛠️ Topics Covered
+Web Development (MERN, APIs, UI/UX)
+
+DevOps (Docker, CI/CD, Linux)
+
+Web3 (Solana, Smart Contracts)
+
+System Design & Projects
+
+📌 How to Use
+Explore daily logs
+
+Try the code examples
+
+Clone the projects
+
+Follow along on my blog - https://nitinahirwal.in/posts
+
